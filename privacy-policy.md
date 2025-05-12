@@ -1,5 +1,5 @@
 
-# Privacy Policy – NutriNova
+# Privacy Policy – NutriWize
 
 _Last updated: May 12, 2025_
 
@@ -9,7 +9,7 @@ Thank you for using **NutriWize**. We value your privacy and are committed to pr
 
 ## 1. Data Collection
 
-NutriNova **does not collect or transmit any personal information** from users.
+NutriWize **does not collect or transmit any personal information** from users.
 
 We do **not use analytics**, tracking, advertising SDKs, or third-party services that access your data. All information you enter into the app is stored **locally on your device** and is not shared with anyone.
 
