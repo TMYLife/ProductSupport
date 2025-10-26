@@ -39,7 +39,7 @@ Since NutriWize does not collect or store personal data, there is:
 
 If you have any questions or concerns about this policy, feel free to contact us:
 
-📧 Email: [support](mailto:tmylifetech@gmail.com)
+📧 Email: [info@tmylife.se](mailto:info@tmylife.se)
 
 ---
 
