@@ -1,46 +1,50 @@
+# Privacy Policy – TMY Life Apps
 
-# Privacy Policy – NutriWize
+_Last updated: Jan 20, 2026_
 
-_Last updated: May 12, 2025_
+## Overview
 
-Thank you for using **NutriWize**. We value your privacy and are committed to protecting your data. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that data.
+This Privacy Policy applies to mobile applications operated by **TMY Life**, including **NutriWize** and **Svenska Stegvis**.
 
----
+We respect your privacy. Our apps currently:
 
-## 1. Data Collection
-
-NutriWize **does not collect or transmit any personal information** from users.
-
-We do **not use analytics**, tracking, advertising SDKs, or third-party services that access your data. All information you enter into the app is stored **locally on your device** and is not shared with anyone.
-
----
-
-## 2. In the Future
-
-If future updates add features such as:
-- Account login or syncing
-- Cloud storage or backup
-- Personalized content
-
-...this Privacy Policy will be updated accordingly, and you'll be notified before any changes take effect.
+- Store all data **locally on your device only**
+- Do **not** collect, transmit, or share personal data
+- Do **not** use analytics, tracking, advertising, or third-party services
 
 ---
 
-## 3. Your Rights
+## Future Changes
 
-Since NutriWize does not collect or store personal data, there is:
-- No data to access, correct, or delete
-- No user tracking or profiling
-- No data shared with third parties
+If we introduce features such as user accounts, cloud synchronization, or analytics, we will:
 
----
-
-## 4. Contact Us
-
-If you have any questions or concerns about this policy, feel free to contact us:
-
-📧 Email: [info@tmylife.se](mailto:info@tmylife.se)
+- Update this Privacy Policy **before** any data collection begins
+- Notify users of material changes
+- Obtain consent where required by law
 
 ---
 
-© 2025 TMY Life. All rights reserved.
+## Your Rights (GDPR / EU Users)
+
+Under the General Data Protection Regulation (GDPR), you have rights including access, correction, deletion, and withdrawal of consent.
+
+Since we do **not collect or process personal data**, these rights do not currently apply in practice.  
+If you have questions or concerns, you may contact us at any time.
+
+---
+
+## Children’s Privacy
+
+Our apps are designed for general audiences and do not knowingly collect personal data from children under the age of 13.
+
+---
+
+## Contact
+
+For questions or concerns regarding this Privacy Policy:
+
+📧 **info@tmylife.se**
+
+---
+
+© 2026 TMY Life. All rights reserved.
